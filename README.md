@@ -11,8 +11,6 @@ A technical demonstration of CSS3 positioning and arrangement-- no Flexbox styli
 1. Visit [here](https://adjectival.github.io/CoS-mockup-SASS/) to view the site.
 
 
-
-
 ## Known Issues
 None at this time.
 
