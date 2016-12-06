@@ -8,9 +8,26 @@ body {margin: 0px;}
 .column {
   min-height: 100px;
   min-width: 50%;
+  float: left;
 }
 /* End for testing */
 
 .nav {
   background-color: #567;
+}
+
+.logo {
+  display: inline-block;
+}
+
+ul {
+  list-style-type: none;
+  text-align: right;
+  float: right;
+  width: 85%;
+}
+li {
+  // margin-top: 20px;
+  border-top: 8px solid #009ABE;
+  float: left;
 }

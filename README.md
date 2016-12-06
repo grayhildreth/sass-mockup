@@ -1,5 +1,5 @@
 # Componentized Design v1.0 :confused::punch::cd:
-## _mockup od Consequence of Sound_
+## _mockup of Consequence of Sound_
 ### by _Alexander Jacks & Gray Hildreth_
 
 
