@@ -16,18 +16,20 @@ body {margin: 0px;}
   background-color: #567;
 }
 
-.logo {
-  display: inline-block;
+.navbar-brand {
+  padding: 0;
 }
 
 ul {
-  list-style-type: none;
-  text-align: right;
-  float: right;
-  width: 85%;
+  // list-style-type: none;
+  // text-align: right;
+  // float: right;
+  // width: 85%;
 }
 li {
   // margin-top: 20px;
-  border-top: 8px solid #009ABE;
-  float: left;
+  // border-top: 8px solid #009ABE;
+  // float: left;
 }
+
+// @media screen and (min-width: 321px);

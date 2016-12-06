@@ -15,17 +15,7 @@ body {
 .nav {
   background-color: #567; }
 
-.logo {
-  display: inline-block; }
-
-ul {
-  list-style-type: none;
-  text-align: right;
-  float: right;
-  width: 85%; }
-
-li {
-  border-top: 8px solid #009ABE;
-  float: left; }
+.navbar-brand {
+  padding: 0; }
 
 /*# sourceMappingURL=styles.css.map */
