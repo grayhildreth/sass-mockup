@@ -1,3 +1,17 @@
+/* For testing only  - Leroi Dejesa */
+body {
+  margin: 0px; }
 
+*:not(body):not(html) {
+  box-sizing: border-box;
+  border: 1px dashed firebrick; }
+
+.column {
+  min-height: 100px;
+  min-width: 50%; }
+
+/* End for testing */
+.nav {
+  background-color: #567; }
 
 /*# sourceMappingURL=styles.css.map */
